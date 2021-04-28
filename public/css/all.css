@@ -1,0 +1,22 @@
+.nav-head {
+	background-color: rgb(0, 123, 255) !important;
+	color: #fff;
+}
+
+.logo {
+	width: 50px;
+	border-radius: 50%;
+  }
+
+.megamenu-li {
+	position: static;
+}
+
+.megamenu {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	right: 0;
+	padding: 15px;
+	background-color:#0060c8!important;
+}
