@@ -44,24 +44,26 @@
                             <div class="dropdown-menu megamenu" aria-labelledby="dropdown01">
                                 <div class="row">
                                     <div class="col-sm-6 col-lg-3">
-                                        <h5 class="text-white">Links</h5>
-                                        <a class="dropdown-item" href="#">Another action</a>
-                                        <a class="dropdown-item" href="#">Something else here</a>
-                                        <a class="dropdown-item" href="#">Another action</a>
-                                        <a class="dropdown-item" href="#">Something else here</a>
+                                        <h5 class="text-white">Votneg Arms</h5>
+                                        <a class="dropdown-item text-info" href="#">Votneg Voice</a>
+                                        <a class="dropdown-item text-info" href="#">Movie House</a>
+                                        <a class="dropdown-item text-info" href="#">VKMP</a>
+                                        <a class="dropdown-item text-info" href="#">LOFAEX</a>
+                                        <a class="dropdown-item text-info" href="#">Super Model Dance Crew</a>
                                     </div>
                                     <div class="col-sm-6 col-lg-3">
-                                        <h5 class="text-white">More Links</h5>
-                                        <a class="dropdown-item" href="#">Another action</a>
-                                        <a class="dropdown-item" href="#">Something else here</a>
-                                        <a class="dropdown-item" href="#">Another action</a>
+                                        <h5 class="text-white">Outreach</h5>
+                                        <a class="dropdown-item text-info" href="#">RWCC Conference</a>
+                                        <a class="dropdown-item text-info" href="#">GOF</a>
+                                        <a class="dropdown-item text-info" href="#">Might Men</a>
+                                        <a class="dropdown-item text-info" href="#">Women Upfront</a>
                                     </div>
                                     <div class="col-sm-6 col-lg-3">
-                                        <h5>Paragraph</h5>
+                                        <h5 class="text-white">What we do!</h5>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus in veritatis, facilis eligendi sunt, culpa autem harum porro earum.</p>
                                     </div>
                                     <div class="col-sm-6 col-lg-3">
-                                        <h5 class="text-white">Image</h5>
+                                        <h5 class="text-white">Ministry House</h5>
                                         <img src="https://source.unsplash.com/250x150/?sig=4" alt="..." style="width: 100%;" />
                                     </div>
                                 </div>
@@ -72,7 +74,7 @@
                             <div class="dropdown-menu megamenu" aria-labelledby="dropdown02">
                                 <div class="row">
                                     <div class="col-sm-6 col-lg-4">
-                                        <h5 class="text-white">Image Slider</h5>
+                                        <h5 class="text-white">Ministerial Institutes</h5>
                                         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                                             <div class="carousel-inner">
                                                 <div class="carousel-item active">
@@ -88,14 +90,15 @@
                                         </div>
                                     </div>
                                     <div class="col-sm-6 col-lg-3">
-                                        <h5 class="text-white">Links</h5>
-                                        <a class="dropdown-item" href="#">Another action</a>
-                                        <a class="dropdown-item" href="#">Something else here</a>
-                                        <a class="dropdown-item" href="#">Another action</a>
-                                        <a class="dropdown-item" href="#">Something else here</a>
+                                        <h5 class="text-white">School</h5>
+                                        <a class="dropdown-item text-info" href="#">VSOM</a>
+                                        <a class="dropdown-item text-info" href="#">VSOL</a>
+                                        <a class="dropdown-item text-info" href="#">VSE</a>
+                                        <a class="dropdown-item text-info" href="#">VSTC</a>
+                                        <a class="dropdown-item text-info" href="#">VSMTA</a>
                                     </div>
                                     <div class="col-sm-6 col-lg-5">
-                                        <h5 class="text-white">Paragraph</h5>
+                                        <h5 class="text-white">Our Pride</h5>
                                         <p>
                                             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam impedit itaque minus distinctio possimus reiciendis et repellat. Voluptate, temporibus veniam et praesentium alias, maxime
                                             repudiandae aliquid, natus omnis animi iste!
@@ -126,14 +129,15 @@
                                         </div>
                                     </div>
                                     <div class="col-sm-6 col-lg-3">
-                                        <h5 class="text-white">Links</h5>
-                                        <a class="dropdown-item" href="#">Another action</a>
-                                        <a class="dropdown-item" href="#">Something else here</a>
-                                        <a class="dropdown-item" href="#">Another action</a>
-                                        <a class="dropdown-item" href="#">Something else here</a>
+                                        <h5 class="text-white">Multimedia</h5>
+                                        <a class="dropdown-item text-info" href="#">LOFAEX</a>
+                                        <a class="dropdown-item text-info" href="#">YouTube</a>
+                                        <a class="dropdown-item text-info" href="#">Facebook</a>
+                                        <a class="dropdown-item text-info" href="#">Testimonies</a>
+                                        <a class="dropdown-item text-info" href="#">Online Chat</a>
                                     </div>
                                     <div class="col-sm-6 col-lg-5">
-                                        <h5 class="text-white">Paragraph</h5>
+                                        <h5 class="text-white">Available 24/7</h5>
                                         <p>
                                             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam impedit itaque minus distinctio possimus reiciendis et repellat. Voluptate, temporibus veniam et praesentium alias, maxime
                                             repudiandae aliquid, natus omnis animi iste!

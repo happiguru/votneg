@@ -7,7 +7,7 @@
 	<div class="content">
 		<h1>Voice Of The New Generation</h1>
 		<h3>Raising outstanding leaders in all fields of life</h3>
-		<a href="#about" class="btn">Read More</a>
+		<a href="#about" class="btn custom-btn btn-12"><span>Click!</span><span>Read More</span></a>
 	</div> 
 </section>
 
